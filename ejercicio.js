@@ -1,4 +1,4 @@
-/*
+
 //map
 
 let miMapa = new Map();
@@ -90,7 +90,7 @@ alert(primerValor + ', ' + segundoValor + ', ' + tercerValor);  // Salida: 1, 2,
 let [[primeraClaveD, primerValorD], [segundaClaveD, segundoValorD], [terceraClaveD, tercerValorD]] = Object.entries(miObjeto);
 alert(primeraClaveD + ', ' + primerValorD + ', ' + segundaClaveD + ', ' + segundoValorD + ', ' + terceraClaveD + ', ' + tercerValorD);
 // Salida: 'a, 1, b, 2, c, 3
-*/
+
 //fecha y hora 
 // Obtener la fecha y hora actual
 let fechaActual = new Date();
